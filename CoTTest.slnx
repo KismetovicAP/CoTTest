@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CoTTest/CoTTest.csproj" />
+  <Project Path="NoCoTTest/NoCoTTest.csproj" />
+</Solution>
